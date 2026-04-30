@@ -54,6 +54,14 @@
 
 ---
 
+<h2 align="center"> GitHub Contribution Snake </h2>
+
+<div align="center">
+    <img src="https://github.com/vasumakhija/vasumakhija/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</div>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
