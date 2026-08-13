@@ -81,7 +81,7 @@
 
 ## 📈 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasumakhija&" alt="joydeep049" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasumakhija&" alt="vasumakhija" /></p>
 
 ---
 
